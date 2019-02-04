@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en"> 
+  <head>
+    <meta charset="UTF-8">
+    <title>Eighty9 Designs</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css" />
+    <link href="css/main.css" rel="stylesheet"> 
+
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="shortcut icon" href="imgs/teal-star-favicon.ico" />    
+    <script src="js/bootstrap.js"></script>
+
+
+  </head>
+
+
+<body>
+ <nav class="nav-container">
+     
+     <div class="logo">
+         Eighty9 Designs
+     </div>
+    
+        <ul class="nav-items">
+          <li class="nav-item"><a href="#AboutMe">About Me</a></li>
+          <li class="nav-item"><a href="#Portfolio">Portfolio</a></li>
+          <li class="nav-item"><a href="#GetInTouch">Get In Touch</a></li>
+        </ul>
+</nav>
+
+<main>
+
+        <section class="hero">
+                <div class="hero-inner">
+                    <h1>My awesome website</h1>
+                    <h2>Look at this website and bask in its amazing glory!</h2>
+                    <a href="https://example.com/" class="btn">Go ahead...</a>
+                </div>
+            </section>
+
+<section class="body-container">
+        <div class="left-container">
+                <h1>Designer</h1>
+                <p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. Nescio brains an Undead zombies. Sicut malus putrid voodoo horror. Nigh tofth eliv ingdead.</p>
+                <div class="single-chart">
+                    <svg viewBox="0 0 36 36" class="circular-chart blue">
+                      <path class="circle-bg"
+                        d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831"
+                      />
+                      <path class="circle"
+                        stroke-dasharray="100, 100"
+                        d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831"
+                      />
+                      <text x="18" y="20.35" class="percentage">7 year</text>
+                    </svg>
+                  </div>
+            </div>
+        
+            <div class="middle-container">
+                <h1>Marketer</h1>
+                <p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. Nescio brains an Undead zombies. Sicut malus putrid voodoo horror. Nigh tofth eliv ingdead.</p>
+               
+                 <div class="single-chart">
+                    <svg viewBox="0 0 36 36" class="circular-chart blue">
+                      <path class="circle-bg"
+                        d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831"
+                      />
+                      <path class="circle"
+                        stroke-dasharray="100, 100"
+                        d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831"
+                      />
+                      <text x="18" y="20.35" class="percentage">7 year</text>
+                    </svg>
+                  </div>
+            </div>
+        
+            <div class="right-container">
+                <h1>Developer</h1>
+                <p>Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. Nescio brains an Undead zombies. Sicut malus putrid voodoo horror. Nigh tofth eliv ingdead.</p>
+        
+                <div class="single-chart">
+                    <svg viewBox="0 0 36 36" class="circular-chart blue">
+                      <path class="circle-bg"
+                        d="M18 2.0845
+                          a 15.9155 15.9155 0 0 1 0 31.831
+                          a 15.9155 15.9155 0 0 1 0 -31.831"
+                      />
+                      <path class="circle"
+                      stroke-dasharray="10, 100"
+                      d="M18 2.0845
+                        a 15.9155 15.9155 0 0 1 0 31.831
+                        a 15.9155 15.9155 0 0 1 0 -31.831"
+                    />
+                      <text x="18" y="20.35" class="percentage">1 year</text>
+                    </svg>
+                  </div>
+                </div>
+            </div>
+        </div> 
+        
+        </section>
+        
+</main>
+
+<!-- This is where the proficiency circles start
+This is where the proficiency circles start
+This is where the proficiency circles start -->
+
+<!-- 
+<main>
+    <div class="flex-wrapper">
+        <div class="single-chart">
+          <svg viewBox="0 0 36 36" class="circular-chart orange">
+            <path class="circle-bg"
+              d="M18 2.0845
+                a 15.9155 15.9155 0 0 1 0 31.831
+                a 15.9155 15.9155 0 0 1 0 -31.831"
+            />
+            <path class="circle"
+              stroke-dasharray="30, 100"
+              d="M18 2.0845
+                a 15.9155 15.9155 0 0 1 0 31.831
+                a 15.9155 15.9155 0 0 1 0 -31.831"
+            />
+            <text x="18" y="20.35" class="percentage">1 years</text>
+          </svg>
+        </div>
+
+        <div class="single-chart">
+            <svg viewBox="0 0 36 36" class="circular-chart blue">
+              <path class="circle-bg"
+                d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831"
+              />
+              <path class="circle"
+                stroke-dasharray="90, 100"
+                d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831"
+              />
+              <text x="18" y="20.35" class="percentage">7 year</text>
+            </svg>
+          </div>
+
+          <div class="single-chart">
+            <svg viewBox="0 0 36 36" class="circular-chart blue">
+              <path class="circle-bg"
+                d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831"
+              />
+              <path class="circle"
+                stroke-dasharray="90, 100"
+                d="M18 2.0845
+                  a 15.9155 15.9155 0 0 1 0 31.831
+                  a 15.9155 15.9155 0 0 1 0 -31.831"
+              />
+              <text x="18" y="20.35" class="percentage">7 year</text>
+            </svg>
+          </div>
+
+        <div class="single-chart">
+          <svg viewBox="0 0 36 36" class="circular-chart green">
+            <path class="circle-bg"
+              d="M18 2.0845
+                a 15.9155 15.9155 0 0 1 0 31.831
+                a 15.9155 15.9155 0 0 1 0 -31.831"
+            />
+            <path class="circle"
+              stroke-dasharray="60, 100"
+              d="M18 2.0845
+                a 15.9155 15.9155 0 0 1 0 31.831
+                a 15.9155 15.9155 0 0 1 0 -31.831"
+            />
+            <text x="18" y="20.35" class="percentage">1 years</text>
+          </svg>
+        </div>
+      
+
+      </div>
+
+
+</main> -->
+
+<footer class="nav-container">
+     
+        <div class="info">
+            Eighty9 Designs</br>
+            Jessica Otte
+        </div>
+       
+           <ul class="nav-items">
+             <li class="nav-item"><a href="#AboutMe">About Me</a></li>
+             <li class="nav-item"><a href="#Portfolio">Portfolio</a></li>
+             <li class="nav-item"><a href="#GetInTouch">Get In Touch</a></li>
+           </ul>
+        </footer>
+
+</body>
+</html>
