@@ -1,0 +1,203 @@
+/* Goofy borders around everything to help us see the layout. */
+* {
+    border: 2px solid cornflowerblue;
+    /* margin: 5px; */
+    padding: 3px;
+    }
+
+/* body takes up full viewport and extends all the way to the edges. */
+html, body {
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 100vh;
+    font-family: 'Lato', sans-serif;
+    
+    }
+
+/* basic link setup. */
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+  
+a:active {
+    color: black;
+}
+  
+a:visited {
+    color: teal;
+}
+/* basic link setup end. */
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: teal;
+    padding: 20px 20px;
+}
+
+.logo {
+    font-weight: 900;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: flex-end;
+    align-content: space-around;
+    list-style-type: none;
+    letter-spacing: normal;
+}
+
+.nav-item {
+    padding: 0px 20px;
+}
+
+.nav-item > a {
+    text-decoration: none;
+    color: white;
+
+}
+
+main {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+h1 {
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 15px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.body-container {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+}
+.left-container {
+    flex-basis: 33.3%;
+    padding: 0px 20px;
+
+}
+
+.middle-container {
+    flex-basis: 33.3%;
+    padding: 0px 20px;
+
+}
+
+.right-container {
+    flex-basis: 33.3%;
+    padding: 0px 20px;
+
+}
+
+
+/* This is where the proficiency circles start
+This is where the proficiency circles start
+This is where the proficiency circles start */
+
+.flex-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .single-chart {
+    width: 100%;
+    justify-content: space-around ;
+  }
+  
+  .circular-chart {
+    display: block;
+    margin: 10px auto;
+    max-width: 80%;
+    max-height: 100px;
+  }
+  
+  .circle-bg {
+    fill: none;
+    stroke: #eee;
+    stroke-width: 3.8;
+  }
+  
+  .circle {
+    fill: none;
+    stroke-width: 2.8;
+    stroke-linecap: round;
+    animation: progress 1s ease-out forwards;
+  }
+  
+  @keyframes progress {
+    0% {
+      stroke-dasharray: 0 100;
+    }
+  }
+  
+  .circular-chart.orange .circle {
+    stroke: #ff9f00;
+  }
+  
+  .circular-chart.green .circle {
+    stroke: #4CC790;
+  }
+  
+  .circular-chart.blue .circle {
+    stroke: #3c9ee5;
+  }
+  
+  .percentage {
+    fill: #666;
+    font-size: 8px;
+    text-anchor: middle;
+  }
+
+  .circular-chart.orange {
+    width: 33.33%;
+  }
+  
+  .circular-green.orange {
+    width: 33.33%;
+  }
+  
+  .circular-blue.orange {
+    width: 33.33%;
+  }
+
+  /* This is where the proficiency circles ends
+This is where the proficiency circles ends
+This is where the proficiency circles ends */
+
+
+
+
+
+/* testing hero image
+testing hero image
+testing hero image */
+
+body{margin:0;font-family:sans-serif}.hero{width:100vw;height:100vh;display:flex;justify-content:center;align-items:center;text-align:center;color:#fff;background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(https://codetheweb.blog/assets/img/posts/full-image-hero/image.jpg);background-size:cover;background-position:center center;background-repeat:no-repeat;background-attachment:fixed}.hero h1{font-size:5em;margin-top:0;margin-bottom:.5em}.hero .btn{display:block;width:200px;padding:1em;margin-top:50px;margin-left:auto;margin-right:auto;color:#fff;text-decoration:none;font-size:1.5em;border:3px solid #fff;border-radius:20px;background-color:rgba(147,112,219,.8)}
